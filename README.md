@@ -5,23 +5,76 @@
 
 - Modes are melodic scales that create unique sonic landscapes. Analyzing their suitability for various musical genres requires understanding the characteristic sounds and theoretical underpinnings of each genre. Here's a breakdown of the suitability of different modes in jazz, pop, prog, and progressive forms of these genres:
 
-Mode	Jazz	Pop	Prog	Prog-Rock/Metal	Examples
-Dorian (♭3, ♯6)	High	Moderate	Moderate	High	* Jazz: "So What" by Miles Davis <br> * Prog-Rock: "Shine On You Crazy Diamond" by Pink Floyd (sections)
-Phrygian (♭2, ♭3, ♯6)	Moderate	Low	High	High	* Jazz: "Spain" by Chick Corea <br> * Prog-Metal: "The Count of Tuscany" by Dream Theater
-Lydian (♭7, ♯4, ♯6)	Moderate	High	High	Moderate	* Pop: "Africa" by Toto (chorus) <br> * Prog: "Riders on the Storm" by The Doors (intro)
-Mixolydian (♭7, ♭6)	High	Moderate	Moderate	High	* Jazz: "All Blues" by Miles Davis <br> * Prog-Rock: "Bohemian Rhapsody" by Queen (solo sections)
-Aeolian (Natural Minor)	Moderate	High	Moderate	Moderate	* Pop: "Yesterday" by The Beatles <br> * Prog: "Hotel California" by Eagles (sections)
-Locrian (♭2, ♭3, ♭5, ♭6, ♭7)	Low	Low	High	High	* Jazz: Rarely used due to its dissonant nature <br> * Prog-Metal: "Raining Blood" by Slayer
 
-### Further Analysis:
+<details>
+<summary>Mode Usage in Different Genres</summary>
+Dorian (♭3, ♯6)
 
-- Jazz: Heavily utilizes Dorian, Phrygian, and Mixolydian modes for their improvisational freedom and bluesy character.
-- Pop: Often leans towards major and minor keys for accessibility, but Lydian and Aeolian modes find use for their bright and melancholic qualities, respectively.
-- **Prog:**積極的にモードを活用 (kakuteki ni mōdo o katsuyō suru,積極的に = actively, モード = mode, 活用 = use) [actively utilizes modes] due to their complex and unconventional sounds. Phrygian, Locrian, and even Dorian find application here.
-- Prog-Rock/Metal: Extends the boundaries of traditional prog, incorporating even more dissonant modes like Locrian.
+    Jazz: High usage
+        Example: "So What" by Miles Davis
+    Pop: Moderate usage
+    Prog: Moderate usage
+    Prog-Rock/Metal: High usage
+        Example: "Shine On You Crazy Diamond" by Pink Floyd (sections)
+
+Phrygian (♭2, ♭3, ♯6)
+
+    Jazz: Moderate usage
+        Example: "Spain" by Chick Corea
+    Pop: Low usage
+    Prog: High usage
+    Prog-Rock/Metal: High usage
+        Example: "The Count of Tuscany" by Dream Theater
+
+Lydian (♭7, ♯4, ♯6)
+
+    Jazz: Moderate usage
+    Pop: High usage
+        Example: "Africa" by Toto (chorus)
+    Prog: High usage
+        Example: "Riders on the Storm" by The Doors (intro)
+    Prog-Rock/Metal: Moderate usage
+
+Mixolydian (♭7, ♭6)
+
+    Jazz: High usage
+        Example: "All Blues" by Miles Davis
+    Pop: Moderate usage
+    Prog: Moderate usage
+    Prog-Rock/Metal: High usage
+        Example: "Bohemian Rhapsody" by Queen (solo sections)
+
+Aeolian (Natural Minor)
+
+    Jazz: Moderate usage
+    Pop: High usage
+        Example: "Yesterday" by The Beatles
+    Prog: Moderate usage
+        Example: "Hotel California" by Eagles (sections)
+    Prog-Rock/Metal: Moderate usage
+
+Locrian (♭2, ♭3, ♭5, ♭6, ♭7)
+
+    Jazz: Low usage (rarely used due to its dissonant nature)
+    Pop: Low usage
+    Prog: High usage
+    Prog-Rock/Metal: High usage
+        Example: "Raining Blood" by Slayer
+
+</details>
+<details>
+<summary>Further Analysis</summary>
+
+    Jazz: Heavily utilizes Dorian, Phrygian, and Mixolydian modes for their improvisational freedom and bluesy character.
+    Pop: Often leans towards major and minor keys for accessibility, but Lydian and Aeolian modes find use for their bright and melancholic qualities, respectively.
+    Prog: Actively utilizes modes due to their complex and unconventional sounds. Phrygian, Locrian, and even Dorian find application here.
+    Prog-Rock/Metal: Extends the boundaries of traditional prog, incorporating even more dissonant modes like Locrian.
+
 Note: These are generalizations, and exceptions exist. Artists constantly push boundaries.
+</details>
+<details>
+<summary>More Examples</summary>
 
-### More Examples:
+    The iconic "So What" by Miles Davis is built on the Dorian mode, creating a relaxed and bluesy feel. The major 6th adds lift.
 
-- The iconic "So What" by Miles Davis is built on the Dorian mode, creating a relaxed and bluesy feel. The major 6th adds lift 
-
+</details>
