@@ -1,7 +1,7 @@
 ## Jazz, Pop, Prog, and the Modes: A Musicological Analysis
 
 
-- I love modes and through some tragedy was not exposed to George Russell's Lydian Chromatic Concept in music school. When I started reading this text I was delighted by the concept of tonal gravity. It is intuitive in the way that stacked fifths ascend and all the partials dance around in that context, leaving your ears and brain to figure out. whilst it hurt my brain to try to 
+- I love modes and through some tragedy was not exposed to George Russell's Lydian Chromatic Concept in music school. When I started reading this text I was delighted by the concept of tonal gravity. It is intuitive in the way that stacked fifths ascend and all the partials dance around in that context, leaving your ears and brain to figure out. 
 
 - Modes are melodic scales that create unique sonic landscapes. Analyzing their suitability for various musical genres requires understanding the characteristic sounds and theoretical underpinnings of each genre. Here's a breakdown of the suitability of different modes in jazz, pop, prog, and progressive forms of these genres:
 
